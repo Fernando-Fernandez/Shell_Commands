@@ -1,0 +1,1 @@
+ffmpeg -i Location3Training.mov -vcodec h264 -acodec mp2 Location3Training.mp4
